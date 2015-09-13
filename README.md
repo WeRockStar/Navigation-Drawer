@@ -4,3 +4,6 @@
 ```
 
 #### Screenshot
+![alt tag](https://github.com/WeRockStar/Navigation-Drawer/blob/master/close.png)
+
+![alt tag](https://github.com/WeRockStar/Navigation-Drawer/blob/master/open.png)
